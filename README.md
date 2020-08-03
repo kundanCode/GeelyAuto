@@ -1,4 +1,4 @@
-# geelyauto
+# GeelyAuto
 Car Price predictions with Linear Regression
 
 ## Problem Statement
